@@ -1,5 +1,5 @@
 # MFTInfo
-tools to extrectMFT
-build with gyp，so you should first install it
-the run the cmd,such as "gyp --depth=. -G msvs_version=-2015 build.gyp" to generte IDE progaram.
+tools to extrectMFT<br>
+build with gyp，so you should first install it<br>
+the run the cmd,such as "gyp --depth=. -G msvs_version=-2015 build.gyp" to generte IDE progaram.<br>
 then just build and run with your IDE and enjoy it!
